@@ -1,0 +1,23 @@
+<suite name="SeleniumIdeSuite" verbose="1">
+
+
+
+    <test name="SeleniumIde">
+
+   <groups>
+            <run>
+
+            </run>
+
+        </groups>
+
+        <classes>
+
+            <class name="PositiveTests"/>
+            <class name="NegativeTests"/>
+
+        </classes>
+
+    </test>
+
+</suite>
